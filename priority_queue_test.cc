@@ -1,5 +1,5 @@
-#include "priority_queue.h"
 #include <gtest/gtest.h>
+#include "priority_queue.h"
 
 // TEST(testCaseName, testName){
 //   ... test body ...
